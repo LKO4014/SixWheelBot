@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td><img width="182" height="353" alt="Image" src="https://github.com/user-attachments/assets/fedf318a-e128-4af0-88bf-a3dff63528e7" /></td>
-    <td>![Image](https://github.com/user-attachments/assets/15cec6b3-73db-4152-872e-13a3af4c80c0)</td>
+    <td><img width="182" height="353" alt="Image" src="https://github.com/user-attachments/assets/15cec6b3-73db-4152-872e-13a3af4c80c0" /></td>
   </tr>
   <tr>
     <td><img width="182" height="353" alt="Image" src="https://github.com/user-attachments/assets/fedf318a-e128-4af0-88bf-a3dff63528e7" /> </td>
