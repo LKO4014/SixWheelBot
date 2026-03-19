@@ -6,8 +6,7 @@
 <img width="182" height="353" alt="Image" src="https://github.com/user-attachments/assets/fedf318a-e128-4af0-88bf-a3dff63528e7" /> <img width="877" height="322" alt="Image" src="https://github.com/user-attachments/assets/c79f2215-debb-4d19-8cfa-840cc8255f7d" />
 
 # 적재함 평형 유지
-<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/20c83d2f-33d5-4f0a-b0b0-10cb6ea96ca5" />
-
+![Image](https://github.com/user-attachments/assets/84587b8f-13cd-401b-b630-ed0175b0b64c)
 ## 📁 SixWheelBot 디렉토리 구조
 
 ```plaintext
