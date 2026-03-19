@@ -16,7 +16,7 @@
 
 ### 부품 리스트
 <details>
-  <summary><b>주요 하드웨어 부품 및 스펙 (Hardware Specification)</b></summary>
+  <summary><b>하드웨어 부품 (Hardware Specification)</b></summary>
   <br>
 
   | 카테고리 | 부품명 | 수량 | 역할 |
