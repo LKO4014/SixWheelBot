@@ -14,6 +14,30 @@
 ### 프로젝트 컨셉
 좀 더 경제적이고 적은 부품으로 다양한 지형지물을 극복하는 배송 로봇을 만들어보자!
 
+### 부품 리스트
+<details>
+  <summary><b>🛠️ 주요 하드웨어 부품 및 스펙 (Hardware Specification)</b></summary>
+  <br>
+
+  | 카테고리 | 부품명 | 수량 | 역할 |
+  | :--- | :--- | :---: | :--- |
+  | **Main Control** | **Raspberry Pi 4** | 1 | 메인 프로세싱 및 ROS 통신 관리 |
+  | **Sub Control** | **Arduino Mega** | 1 | 센서 데이터 수집 및 모터 드라이버 제어 |
+  | **LiDAR** | **RPLiDAR A1** | 1 | 360도 스캔을 통한 주변 장애물 거리 측정 |
+  | **IMU Sensor** | **MPU-6050** | 1 | 로봇 기울기(Pitch/Roll) 감지 및 평형 제어 |
+  | **Driving** | **DC Geared Motor** | 6 | 6륜 독립 구동 및 험지 돌파 주행 |
+  | **Stability** | **MG90S Servo Motor** | 2 | 적재함 수평 유지를 위한 틸팅 메커니즘 |
+  | **Motor Driver** | **L298N** | 3 | 6개 DC 모터의 방향 및 속도(PWM) 제어 |
+  | **Power** | **Li-ion Battery 12V** | 1 | 시스템 통합 전원 공급 |
+  | **Body Frame** | **Aluminum Profile** | - | 로봇의 견고한 골격 및 적재 공간 확보 |
+  | **Casing** | **Formex** | - | 내부 부품 보호 및 외관 제작 (가공 용이성 고려) |
+
+  <br>
+  <blockquote>
+    <b>💡 Hardware Note:</b> 6륜 독립 구동 시스템의 전력 효율과 제어 정밀도를 위해 전용 모터 드라이버와 대용량 리튬이온 배터리를 채택하였으며, 알루미늄 프로파일을 활용하여 내구성을 확보했습니다.
+  </blockquote>
+</details>
+
 ### 서비스 플로우
 <img width="1535" height="795" alt="Image" src="https://github.com/user-attachments/assets/e6adb43e-b951-4177-8bdc-4b5be9c52f1c" width="45%" />
 
