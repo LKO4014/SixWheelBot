@@ -21,8 +21,10 @@
 <img width="877" height="322" alt="Image" src="https://github.com/user-attachments/assets/c79f2215-debb-4d19-8cfa-840cc8255f7d" width="45%" />
 
 ## 결과
+## 결과
+
 <details>
-  <summary><b>모터제어 ( Motor Control Module )(클릭하여 확인)</b></summary>
+  <summary><b>⚙️ 모터 제어 (Motor Control Module)</b></summary>
   <br>
   <p align="center">
     <img alt="gif1" src="https://github.com/user-attachments/assets/7984b750-42b8-42bb-96d6-06b51aab6f72" width="45%" />
@@ -30,34 +32,45 @@
   </p>
 </details>
 
-<detail>
-  <summary><b>적재함 평형 유지 ( Equilibrium Module )(클릭하여 확인)</summary>
-    <br>
-    <p align="center">
-      <img src="https://github.com/user-attachments/assets/84587b8f-13cd-401b-b630-ed0175b0b64c" width="90%" alt="평형 유지">
-    </p>
-</detail>
+<details>
+  <summary><b> 적재함 평형 유지 (Equilibrium Module)</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/84587b8f-13cd-401b-b630-ed0175b0b64c" width="90%" alt="평형 유지">
+  </p>
+</details>
 
-  #### 주행 명령 ( Motor Command Module )
+<details>
+  <summary><b> 주행 명령 (Motor Command Module)</b></summary>
+  <br>
   <p align="center">
     <img src="https://github.com/user-attachments/assets/5cb5c91d-f478-452c-9140-5a7e7bb309fe" width="90%" alt="주행 명령" />
   </p>
+</details>
 
-  #### 장애물 감지 ( Lidar Module )
+<details>
+  <summary><b> 장애물 감지 (Lidar Module)</b></summary>
+  <br>
   <p align="center">
-    <img alt="장애물 감지" src="https://github.com/user-attachments/assets/2a9083ec-4eb8-4aca-a052-4ea40fbaef66" width=90% />
+    <img alt="장애물 감지" src="https://github.com/user-attachments/assets/2a9083ec-4eb8-4aca-a052-4ea40fbaef66" width="90%" />
   </p>
+</details>
 
-  #### 인도 인식
+<details>
+  <summary><b> 인도 인식</b></summary>
+  <br>
   <p align="center">
-    <img alt="인도 인식" src="https://github.com/user-attachments/assets/a28a5e3a-6a2e-4df6-978a-bf859e00b5a5" width=90% />
+    <img alt="인도 인식" src="https://github.com/user-attachments/assets/a28a5e3a-6a2e-4df6-978a-bf859e00b5a5" width="90%" />
   </p>
-  
-  #### 험지 극복
+</details>
+
+<details>
+  <summary><b> 험지 극복</b></summary>
+  <br>
   <p align="center">
     <img src="https://github.com/user-attachments/assets/d9fc3db1-43ab-4e3f-b9c2-1419492d6583" width="90%" alt="장애물 극복" />
   </p>
-
+</details>
 
 
 
