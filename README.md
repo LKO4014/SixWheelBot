@@ -3,16 +3,12 @@
 
 모듈 별 개별 디렉토리에 작업
 
-<table>
-  <tr>
-    <td><img width="182" height="353" alt="Image" src="https://github.com/user-attachments/assets/fedf318a-e128-4af0-88bf-a3dff63528e7" /></td>
-    <td><img width="182" height="353" alt="Image" src="https://github.com/user-attachments/assets/15cec6b3-73db-4152-872e-13a3af4c80c0" /></td>
-  </tr>
-  <tr>
-    <td><img width="182" height="353" alt="Image" src="https://github.com/user-attachments/assets/fedf318a-e128-4af0-88bf-a3dff63528e7" /> </td>
-    <td><img width="877" height="322" alt="Image" src="https://github.com/user-attachments/assets/c79f2215-debb-4d19-8cfa-840cc8255f7d" /></td>
-  </tr>
-</table>
+<img alt="fullfaceImage" src="https://github.com/user-attachments/assets/fedf318a-e128-4af0-88bf-a3dff63528e7" width="45%" />
+<img alt="wildImage" src="https://github.com/user-attachments/assets/15cec6b3-73db-4152-872e-13a3af4c80c0" width="45%" />
+
+<img width="182" height="353" alt="Image" src="https://github.com/user-attachments/assets/fedf318a-e128-4af0-88bf-a3dff63528e7" width="45%" />
+<img width="877" height="322" alt="Image" src="https://github.com/user-attachments/assets/c79f2215-debb-4d19-8cfa-840cc8255f7d" width="45%" />
+
 
 ## 적재함 평형 유지
 ![Image](https://github.com/user-attachments/assets/84587b8f-13cd-401b-b630-ed0175b0b64c)
