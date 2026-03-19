@@ -6,7 +6,7 @@
 <img alt="fullfaceImage" src="https://github.com/user-attachments/assets/fedf318a-e128-4af0-88bf-a3dff63528e7" width="35%" />
 <img alt="wildImage" src="https://github.com/user-attachments/assets/15cec6b3-73db-4152-872e-13a3af4c80c0" width="55%" />
 
-<img width="182" height="353" alt="Image" src="https://github.com/user-attachments/assets/fedf318a-e128-4af0-88bf-a3dff63528e7" width="45%" />
+## 육륜이 시스템 구조도
 <img width="877" height="322" alt="Image" src="https://github.com/user-attachments/assets/c79f2215-debb-4d19-8cfa-840cc8255f7d" width="45%" />
 
 
