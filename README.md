@@ -24,12 +24,13 @@
 <details>
   <summary><b>육륜이 구동 테스트 결과 (클릭하여 확인)</b></summary>
   <br>
+    <summary>모터 제어 ( Motor Control Module )</summary>
+      <p align="center">
+        <img alt="gif1" src="https://github.com/user-attachments/assets/7984b750-42b8-42bb-96d6-06b51aab6f72" width="45%" />
+        <img alt="gif2" src="https://github.com/user-attachments/assets/19eb5cf9-907c-4f40-b85a-484fbe17b21f" width="45%" />
+      </p>
+
   
-  #### 모터 제어 ( Motor Control Module )
-  <p align="center">
-    <img alt="gif1" src="https://github.com/user-attachments/assets/7984b750-42b8-42bb-96d6-06b51aab6f72" width="45%" />
-    <img alt="gif2" src="https://github.com/user-attachments/assets/19eb5cf9-907c-4f40-b85a-484fbe17b21f" width="45%" />
-  </p>
 
   #### 적재함 평형 유지 ( Equilibrium Module )
   <p align="center">
