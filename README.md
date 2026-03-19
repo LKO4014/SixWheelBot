@@ -16,21 +16,23 @@
 
 ### 부품 리스트
 <details>
-  <summary><b>🛠️ 주요 하드웨어 부품 및 스펙 (Hardware Specification)</b></summary>
+  <summary><b>주요 하드웨어 부품 및 스펙 (Hardware Specification)</b></summary>
   <br>
 
   | 카테고리 | 부품명 | 수량 | 역할 |
   | :--- | :--- | :---: | :--- |
-  | **Main Control** | **Raspberry Pi 4** | 1 | 메인 프로세싱 및 ROS 통신 관리 |
-  | **Sub Control** | **Arduino Mega** | 1 | 센서 데이터 수집 및 모터 드라이버 제어 |
-  | **LiDAR** | **RPLiDAR A1** | 1 | 360도 스캔을 통한 주변 장애물 거리 측정 |
-  | **IMU Sensor** | **MPU-6050** | 1 | 로봇 기울기(Pitch/Roll) 감지 및 평형 제어 |
-  | **Driving** | **DC Geared Motor** | 6 | 6륜 독립 구동 및 험지 돌파 주행 |
-  | **Stability** | **MG90S Servo Motor** | 2 | 적재함 수평 유지를 위한 틸팅 메커니즘 |
-  | **Motor Driver** | **L298N** | 3 | 6개 DC 모터의 방향 및 속도(PWM) 제어 |
-  | **Power** | **Li-ion Battery 12V** | 1 | 시스템 통합 전원 공급 |
-  | **Body Frame** | **Aluminum Profile** | - | 로봇의 견고한 골격 및 적재 공간 확보 |
-  | **Casing** | **Formex** | - | 내부 부품 보호 및 외관 제작 (가공 용이성 고려) |
+  | **Main Control** | **Raspberry Pi 5** | 1 | 센서 데이터 수신 및 명령 제어 |
+  | **Sub Control** | **Arduino UNO** | 1 | IMU 센서 데이터 수집 및 모터 드라이버 제어 |
+  | **LiDAR** | **YDLidar X4 Pro** | 1 | 주변 장애물 위치 및 거리 측정 |
+  | **IMU Sensor** | **BNO055** | 1 | 기울기 감지 및 평형 제어 |
+  | **Driving** | **JGA24-370** | 6 | 6륜 독립 구동 및 험지 돌파 주행 |
+  | **Stability** | **MG995 Servo Motor** | 2 | 적재함 수평 유지 |
+  | **Motor Driver** | **BTS7960** | 2 | 6개 DC 모터의 방향 및 속도(PWM) 제어 |
+  | **Power** | **Li-ion Battery 12V** | 1 | 시스템 전원 공급 |
+  | **Body Frame** | **PVC Pipe** | - | 골격 및 적재 공간 |
+  | **Camera** | **YR-019** | 1 | 인도 인식 |
+  | **GPS** | **NEO-6M GY-GPS6MV2** | 1 | 네비게이션 |
+  
 
   <br>
   <blockquote>
