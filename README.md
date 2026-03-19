@@ -9,6 +9,9 @@
 ## 육륜이 시스템 구조도
 <img width="877" height="322" alt="Image" src="https://github.com/user-attachments/assets/c79f2215-debb-4d19-8cfa-840cc8255f7d" width="45%" />
 
+## 육륜이 회전 ( 90 degrees & -60 degrees)
+<img alt="gif1" src="https://github.com/user-attachments/assets/7984b750-42b8-42bb-96d6-06b51aab6f72" width="45%" />
+<img alt="gif2" src="https://github.com/user-attachments/assets/19eb5cf9-907c-4f40-b85a-484fbe17b21f" width="45%" />
 
 ## 적재함 평형 유지
 ![Image](https://github.com/user-attachments/assets/84587b8f-13cd-401b-b630-ed0175b0b64c)
