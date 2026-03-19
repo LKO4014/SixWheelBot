@@ -94,6 +94,30 @@
   </p>
 </details>
 
+<details>
+  <summary><b> 네비게이션 (Navigation Module)</b></summary>
+  <br>
+  <p align="center">
+    <img alt="네비" src="https://github.com/user-attachments/assets/d08fac17-185a-48c5-8bab-1158b61891e0" width="90%" />
+  </p>
+</details>
+
+<details>
+  <summary><b> 배달 로봇 - 서버 통신 (Bot-Server Communication)</b></summary>
+  <br>
+  <p align="center">
+    <img alt="배서통" src="https://github.com/user-attachments/assets/cad8c171-088b-42f3-bb4b-44eaa0f2f943" width="90%" />
+  </p>
+</details>
+
+<details>
+  <summary><b> 배송 접수 웹페이지 (Reception Website)</b></summary>
+  <br>
+  <p align="center">
+    <img alt="웹페이지" src="https://github.com/user-attachments/assets/5b206c33-649c-48ca-8e18-542894611a91" width="90%" />
+  </p>
+</details>
+
 
 
 ## 📁 SixWheelBot 디렉토리 구조
