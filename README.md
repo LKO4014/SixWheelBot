@@ -3,7 +3,7 @@
 
 모듈 별 개별 디렉토리에 작업
 
-<img width="819" height="1587" alt="Image" src="https://github.com/user-attachments/assets/fedf318a-e128-4af0-88bf-a3dff63528e7" />
+<img width="273" height="529" alt="Image" src="https://github.com/user-attachments/assets/fedf318a-e128-4af0-88bf-a3dff63528e7" />
 
 ## 📁 SixWheelBot 디렉토리 구조
 
