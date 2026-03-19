@@ -21,10 +21,8 @@
 <img width="877" height="322" alt="Image" src="https://github.com/user-attachments/assets/c79f2215-debb-4d19-8cfa-840cc8255f7d" width="45%" />
 
 ## 결과
-## 결과
-
 <details>
-  <summary><b>⚙️ 모터 제어 (Motor Control Module)</b></summary>
+  <summary><b> 모터 제어 (Motor Control Module)</b></summary>
   <br>
   <p align="center">
     <img alt="gif1" src="https://github.com/user-attachments/assets/7984b750-42b8-42bb-96d6-06b51aab6f72" width="45%" />
