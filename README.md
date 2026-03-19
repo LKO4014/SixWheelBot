@@ -22,20 +22,22 @@
 
 ## 결과
 <details>
-  <summary><b>육륜이 구동 테스트 결과 (클릭하여 확인)</b></summary>
+  <summary><b>모터제어 ( Motor Control Module )(클릭하여 확인)</b></summary>
   <br>
-    <summary>모터 제어 ( Motor Control Module )</summary>
-      <p align="center">
-        <img alt="gif1" src="https://github.com/user-attachments/assets/7984b750-42b8-42bb-96d6-06b51aab6f72" width="45%" />
-        <img alt="gif2" src="https://github.com/user-attachments/assets/19eb5cf9-907c-4f40-b85a-484fbe17b21f" width="45%" />
-      </p>
-
-  
-
-  #### 적재함 평형 유지 ( Equilibrium Module )
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/84587b8f-13cd-401b-b630-ed0175b0b64c" width="90%" alt="평형 유지">
+    <img alt="gif1" src="https://github.com/user-attachments/assets/7984b750-42b8-42bb-96d6-06b51aab6f72" width="45%" />
+    <img alt="gif2" src="https://github.com/user-attachments/assets/19eb5cf9-907c-4f40-b85a-484fbe17b21f" width="45%" />
   </p>
+</details>
+
+<detail>
+  <summary><b>적재함 평형 유지 ( Equilibrium Module )(클릭하여 확인)
+    <br>
+    <p align="center">
+      <img src="https://github.com/user-attachments/assets/84587b8f-13cd-401b-b630-ed0175b0b64c" width="90%" alt="평형 유지">
+    </p>
+  </summary>
+</detail>
 
   #### 주행 명령 ( Motor Command Module )
   <p align="center">
@@ -57,7 +59,7 @@
     <img src="https://github.com/user-attachments/assets/d9fc3db1-43ab-4e3f-b9c2-1419492d6583" width="90%" alt="장애물 극복" />
   </p>
 
-</details>
+
 
 
 ## 📁 SixWheelBot 디렉토리 구조
