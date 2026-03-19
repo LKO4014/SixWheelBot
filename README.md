@@ -31,12 +31,11 @@
 </details>
 
 <detail>
-  <summary><b>적재함 평형 유지 ( Equilibrium Module )(클릭하여 확인)
+  <summary><b>적재함 평형 유지 ( Equilibrium Module )(클릭하여 확인)</summary>
     <br>
     <p align="center">
       <img src="https://github.com/user-attachments/assets/84587b8f-13cd-401b-b630-ed0175b0b64c" width="90%" alt="평형 유지">
     </p>
-  </summary>
 </detail>
 
   #### 주행 명령 ( Motor Command Module )
