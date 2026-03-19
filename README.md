@@ -22,6 +22,14 @@
 
 ## 결과
 <details>
+  <summary><b> 험지 극복</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/d9fc3db1-43ab-4e3f-b9c2-1419492d6583" width="90%" alt="장애물 극복" />
+  </p>
+</details>
+
+<details>
   <summary><b> 모터 제어 (Motor Control Module)</b></summary>
   <br>
   <p align="center">
@@ -55,18 +63,10 @@
 </details>
 
 <details>
-  <summary><b> 인도 인식</b></summary>
+  <summary><b> 인도 인식 (Vision Module)</b></summary>
   <br>
   <p align="center">
     <img alt="인도 인식" src="https://github.com/user-attachments/assets/a28a5e3a-6a2e-4df6-978a-bf859e00b5a5" width="90%" />
-  </p>
-</details>
-
-<details>
-  <summary><b> 험지 극복</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/d9fc3db1-43ab-4e3f-b9c2-1419492d6583" width="90%" alt="장애물 극복" />
   </p>
 </details>
 
