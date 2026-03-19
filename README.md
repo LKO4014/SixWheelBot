@@ -39,7 +39,7 @@
 </details>
 
 ### 서비스 플로우
-<img width="1535" height="795" alt="Image" src="https://github.com/user-attachments/assets/e6adb43e-b951-4177-8bdc-4b5be9c52f1c" width="45%" />
+<img width="1535" height="795" alt="Image" src="https://github.com/user-attachments/assets/e6adb43e-b951-4177-8bdc-4b5be9c52f1c" width="35%" />
 
 ## 시스템 플로우
 <img width="877" height="322" alt="Image" src="https://github.com/user-attachments/assets/c79f2215-debb-4d19-8cfa-840cc8255f7d" width="45%" />
